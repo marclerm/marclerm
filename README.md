@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋 I'm Marco
 
-<!--
-**marclerm/marclerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A seasoned software engineer specializing in full-stack development, with a strong focus on .NET framework, JavaScript technologies, and adeptness in crafting solutions for mobile, API, and desktop applications. With a passion for building robust and scalable software systems, this engineer excels in both front-end and back-end development, leveraging their proficiency in HTML, CSS, and JavaScript frameworks such as React and Angular for creating engaging user interfaces.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on cross-platform project using .NET frameworks.
+- 🌱 I’m currently learning about GraphQL
+- 👯 I’m looking to collaborate on web based projects
+- 🏃🏻‍♂️ Fav workout: RUNNING!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack 💻
+###  📈 Frontend
+  - JavaScript
+  - Angular
+  - React
+  - TypeScript
+  - Rxjs
+  - HTML
+  - CSS
+  - Bootstrap
+  - Material UI
+  - Chakra UI
+  - Jasmine
+  - Karma
+###  📈 Backend
+  - .NET
+  - C#
+  - XAMARIN
+  - SQL
+  - MVVM
+  - MVC
+  - REST API
+  - Entity Framework
+  - XCode
+  - NUnit/XUnit
