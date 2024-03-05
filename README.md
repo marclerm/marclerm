@@ -21,7 +21,7 @@ A seasoned software engineer specializing in full-stack development, with a stro
   - Chakra UI
   - Jasmine
   - Karma
-###  📈 Backend
+### 📉 Backend
   - .NET
   - C#
   - XAMARIN
